@@ -9,4 +9,4 @@ The study also reveals that free and freemium apps dominate the market, achievin
 Overall, this analysis enables stakeholders to make informed, data-driven decisions regarding app development, marketing, and monetization strategies. By leveraging these insights, the company can improve user experience, increase app visibility, and drive sustainable growth in an increasingly competitive app marketplace.  
 
 Screenshot Of Dashboard:-  
-(https://github.com/Archis-Save/PowerBI_App-Insight-Analysis/blob/main/PowerBI_Project.PNG)
+!(https://github.com/Archis-Save/PowerBI_App-Insight-Analysis/blob/main/PowerBI_Project.PNG)
